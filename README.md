@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/praveen-7995/leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/praveen-7995/leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/praveen-7995/leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/praveen-7995/leetcode-solution/tree/master/2615-sum-of-distances) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveen-7995/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3488-closest-equal-element-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3546-equal-sum-grid-partition-i) |
@@ -56,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
+| [2615-sum-of-distances](https://github.com/praveen-7995/leetcode-solution/tree/master/2615-sum-of-distances) |
 | [3546-equal-sum-grid-partition-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
+| [2615-sum-of-distances](https://github.com/praveen-7995/leetcode-solution/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
