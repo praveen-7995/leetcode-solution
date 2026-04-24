@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/praveen-7995/leetcode-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/praveen-7995/leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/praveen-7995/leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/praveen-7995/leetcode-solution/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/praveen-7995/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/praveen-7995/leetcode-solution/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
