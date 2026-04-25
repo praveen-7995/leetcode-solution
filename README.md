@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/praveen-7995/leetcode-solution/tree/master/0198-house-robber) |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/praveen-7995/leetcode-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -169,4 +170,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/praveen-7995/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0090-subsets-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
