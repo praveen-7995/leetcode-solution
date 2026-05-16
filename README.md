@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/praveen-7995/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0090-subsets-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/praveen-7995/leetcode-solution/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/praveen-7995/leetcode-solution/tree/master/0403-frog-jump) |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveen-7995/leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2498-frog-jump-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/2498-frog-jump-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/praveen-7995/leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
