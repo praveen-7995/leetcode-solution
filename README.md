@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/praveen-7995/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0090-subsets-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/praveen-7995/leetcode-solution/tree/master/0198-house-robber) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveen-7995/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/praveen-7995/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/praveen-7995/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/praveen-7995/leetcode-solution/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/praveen-7995/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/praveen-7995/leetcode-solution/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/praveen-7995/leetcode-solution/tree/master/0403-frog-jump) |
