@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/praveen-7995/leetcode-solution/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/praveen-7995/leetcode-solution/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/praveen-7995/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/praveen-7995/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/praveen-7995/leetcode-solution/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/praveen-7995/leetcode-solution/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/praveen-7995/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/praveen-7995/leetcode-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
