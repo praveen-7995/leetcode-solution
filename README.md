@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
+| [1306-jump-game-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/praveen-7995/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/praveen-7995/leetcode-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/praveen-7995/leetcode-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/praveen-7995/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1306-jump-game-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/praveen-7995/leetcode-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union-Find
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/praveen-7995/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1306-jump-game-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1306-jump-game-iii) |
 ## Graph Theory
 |  |
 | ------- |
