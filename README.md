@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [1306-jump-game-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/praveen-7995/leetcode-solution/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/praveen-7995/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/praveen-7995/leetcode-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/praveen-7995/leetcode-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
+| [1345-jump-game-iv](https://github.com/praveen-7995/leetcode-solution/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/praveen-7995/leetcode-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/praveen-7995/leetcode-solution/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3488-closest-equal-element-queries) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/praveen-7995/leetcode-solution/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/praveen-7995/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1306-jump-game-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/praveen-7995/leetcode-solution/tree/master/1345-jump-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
