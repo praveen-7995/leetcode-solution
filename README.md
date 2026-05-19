@@ -148,16 +148,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0700-search-in-a-binary-search-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0700-search-in-a-binary-search-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0700-search-in-a-binary-search-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Greedy
@@ -220,4 +223,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/praveen-7995/leetcode-solution/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
