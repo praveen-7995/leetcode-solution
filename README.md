@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/praveen-7995/leetcode-solution/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/praveen-7995/leetcode-solution/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/praveen-7995/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [1306-jump-game-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1306-jump-game-iii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/praveen-7995/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-7995/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1345-jump-game-iv](https://github.com/praveen-7995/leetcode-solution/tree/master/1345-jump-game-iv) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/praveen-7995/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/praveen-7995/leetcode-solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
