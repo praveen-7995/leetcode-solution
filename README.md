@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/praveen-7995/leetcode-solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/praveen-7995/leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/praveen-7995/leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
+| [2126-destroying-asteroids](https://github.com/praveen-7995/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/praveen-7995/leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2498-frog-jump-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/2498-frog-jump-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/praveen-7995/leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/praveen-7995/leetcode-solution/tree/master/0056-merge-intervals) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/praveen-7995/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/praveen-7995/leetcode-solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2126-destroying-asteroids](https://github.com/praveen-7995/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/praveen-7995/leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/praveen-7995/leetcode-solution/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/praveen-7995/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/praveen-7995/leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/praveen-7995/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [2498-frog-jump-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/2498-frog-jump-ii) |
 ## Depth-First Search
 |  |
