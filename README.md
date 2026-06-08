@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/praveen-7995/leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/praveen-7995/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/praveen-7995/leetcode-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/praveen-7995/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/praveen-7995/leetcode-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/praveen-7995/leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2498-frog-jump-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/2498-frog-jump-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-7995/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveen-7995/leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/praveen-7995/leetcode-solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/praveen-7995/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/praveen-7995/leetcode-solution/tree/master/3643-flip-square-submatrix-vertically) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/praveen-7995/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveen-7995/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveen-7995/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Dynamic Programming
