@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/praveen-7995/leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/praveen-7995/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
+| [0788-rotated-digits](https://github.com/praveen-7995/leetcode-solution/tree/master/0788-rotated-digits) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveen-7995/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/praveen-7995/leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/praveen-7995/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0788-rotated-digits](https://github.com/praveen-7995/leetcode-solution/tree/master/0788-rotated-digits) |
 | [0931-minimum-falling-path-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/praveen-7995/leetcode-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
