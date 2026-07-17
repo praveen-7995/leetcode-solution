@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/praveen-7995/leetcode-solution/tree/master/0788-rotated-digits) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveen-7995/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/praveen-7995/leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/praveen-7995/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/praveen-7995/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3161-block-placement-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/praveen-7995/leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3546-equal-sum-grid-partition-i) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/praveen-7995/leetcode-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2574-left-and-right-sum-differences](https://github.com/praveen-7995/leetcode-solution/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/praveen-7995/leetcode-solution/tree/master/2615-sum-of-distances) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/praveen-7995/leetcode-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2615-sum-of-distances](https://github.com/praveen-7995/leetcode-solution/tree/master/2615-sum-of-distances) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/praveen-7995/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/praveen-7995/leetcode-solution/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/praveen-7995/leetcode-solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/2498-frog-jump-ii) |
 | [3161-block-placement-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/praveen-7995/leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -311,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/praveen-7995/leetcode-solution/tree/master/2833-furthest-point-from-origin) |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Geometry
 |  |
 | ------- |
@@ -368,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/praveen-7995/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveen-7995/leetcode-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
