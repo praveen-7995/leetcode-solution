@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/praveen-7995/leetcode-solution/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/praveen-7995/leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/praveen-7995/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/praveen-7995/leetcode-solution/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/praveen-7995/leetcode-solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/praveen-7995/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/praveen-7995/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/praveen-7995/leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/praveen-7995/leetcode-solution/tree/master/2126-destroying-asteroids) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/praveen-7995/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/praveen-7995/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/praveen-7995/leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/praveen-7995/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/praveen-7995/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/praveen-7995/leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Ordered Set
 |  |
