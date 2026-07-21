@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/praveen-7995/leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/praveen-7995/leetcode-solution/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/praveen-7995/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
