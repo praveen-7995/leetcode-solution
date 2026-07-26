@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/praveen-7995/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/praveen-7995/leetcode-solution/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/praveen-7995/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/praveen-7995/leetcode-solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveen-7995/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-7995/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-7995/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-7995/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/praveen-7995/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
