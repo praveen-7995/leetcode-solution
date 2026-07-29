@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/praveen-7995/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/praveen-7995/leetcode-solution/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/praveen-7995/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/praveen-7995/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveen-7995/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/praveen-7995/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/praveen-7995/leetcode-solution/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/praveen-7995/leetcode-solution/tree/master/0368-largest-divisible-subset) |
+| [0455-assign-cookies](https://github.com/praveen-7995/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveen-7995/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1048-longest-string-chain](https://github.com/praveen-7995/leetcode-solution/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveen-7995/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/praveen-7995/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-7995/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/praveen-7995/leetcode-solution/tree/master/1048-longest-string-chain) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveen-7995/leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/praveen-7995/leetcode-solution/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/praveen-7995/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/praveen-7995/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/praveen-7995/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
