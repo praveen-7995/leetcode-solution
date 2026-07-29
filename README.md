@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/praveen-7995/leetcode-solution/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/praveen-7995/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/praveen-7995/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/praveen-7995/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3488-closest-equal-element-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/praveen-7995/leetcode-solution/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/praveen-7995/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/praveen-7995/leetcode-solution/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Geometry
 |  |
 | ------- |
