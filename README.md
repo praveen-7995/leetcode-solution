@@ -491,4 +491,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/praveen-7995/leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
+| [1143-longest-common-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
