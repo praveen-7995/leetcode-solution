@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveen-7995/leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/praveen-7995/leetcode-solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/praveen-7995/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveen-7995/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/praveen-7995/leetcode-solution/tree/master/3643-flip-square-submatrix-vertically) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/praveen-7995/leetcode-solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/praveen-7995/leetcode-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/praveen-7995/leetcode-solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveen-7995/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/praveen-7995/leetcode-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveen-7995/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveen-7995/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
