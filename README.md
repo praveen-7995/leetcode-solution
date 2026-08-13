@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/praveen-7995/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-7995/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/praveen-7995/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-7995/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/praveen-7995/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-7995/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/praveen-7995/leetcode-solution/tree/master/0733-flood-fill) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/praveen-7995/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/praveen-7995/leetcode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/praveen-7995/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
