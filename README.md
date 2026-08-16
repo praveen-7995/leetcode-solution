@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/praveen-7995/leetcode-solution/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/praveen-7995/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/praveen-7995/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveen-7995/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/praveen-7995/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveen-7995/leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/praveen-7995/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/praveen-7995/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/praveen-7995/leetcode-solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/praveen-7995/leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/praveen-7995/leetcode-solution/tree/master/2104-sum-of-subarray-ranges) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/praveen-7995/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/praveen-7995/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2029-stone-game-ix](https://github.com/praveen-7995/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/praveen-7995/leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/praveen-7995/leetcode-solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/praveen-7995/leetcode-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/praveen-7995/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/praveen-7995/leetcode-solution/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/praveen-7995/leetcode-solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/praveen-7995/leetcode-solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/praveen-7995/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/praveen-7995/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -544,15 +549,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/praveen-7995/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/praveen-7995/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/praveen-7995/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/praveen-7995/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/praveen-7995/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/praveen-7995/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
