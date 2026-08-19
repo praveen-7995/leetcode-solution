@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/praveen-7995/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/praveen-7995/leetcode-solution/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/praveen-7995/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveen-7995/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/praveen-7995/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/praveen-7995/leetcode-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/praveen-7995/leetcode-solution/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/praveen-7995/leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1345-jump-game-iv](https://github.com/praveen-7995/leetcode-solution/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/praveen-7995/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/praveen-7995/leetcode-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/praveen-7995/leetcode-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2615-sum-of-distances](https://github.com/praveen-7995/leetcode-solution/tree/master/2615-sum-of-distances) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/praveen-7995/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/praveen-7995/leetcode-solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/praveen-7995/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/praveen-7995/leetcode-solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2029-stone-game-ix](https://github.com/praveen-7995/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/praveen-7995/leetcode-solution/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0090-subsets-ii) |
+| [1386-cinema-seat-allocation](https://github.com/praveen-7995/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/praveen-7995/leetcode-solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/praveen-7995/leetcode-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
