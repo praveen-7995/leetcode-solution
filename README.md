@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/praveen-7995/leetcode-solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/praveen-7995/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/praveen-7995/leetcode-solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praveen-7995/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -475,12 +476,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/praveen-7995/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/praveen-7995/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/praveen-7995/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/praveen-7995/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/praveen-7995/leetcode-solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
