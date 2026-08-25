@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/praveen-7995/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/praveen-7995/leetcode-solution/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/praveen-7995/leetcode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/praveen-7995/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/praveen-7995/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/praveen-7995/leetcode-solution/tree/master/0486-predict-the-winner) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveen-7995/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/praveen-7995/leetcode-solution/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
@@ -625,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/praveen-7995/leetcode-solution/tree/master/0139-word-break) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/praveen-7995/leetcode-solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
