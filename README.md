@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/praveen-7995/leetcode-solution/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/praveen-7995/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/praveen-7995/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/praveen-7995/leetcode-solution/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/praveen-7995/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/praveen-7995/leetcode-solution/tree/master/0179-largest-number) |
+| [0349-intersection-of-two-arrays](https://github.com/praveen-7995/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/praveen-7995/leetcode-solution/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/praveen-7995/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveen-7995/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/praveen-7995/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/praveen-7995/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0349-intersection-of-two-arrays](https://github.com/praveen-7995/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/praveen-7995/leetcode-solution/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-7995/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/praveen-7995/leetcode-solution/tree/master/1048-longest-string-chain) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveen-7995/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/praveen-7995/leetcode-solution/tree/master/0139-word-break) |
+| [0349-intersection-of-two-arrays](https://github.com/praveen-7995/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/praveen-7995/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/praveen-7995/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveen-7995/leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/praveen-7995/leetcode-solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/2498-frog-jump-ii) |
