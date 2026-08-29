@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveen-7995/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/praveen-7995/leetcode-solution/tree/master/0139-word-break) |
+| [0387-first-unique-character-in-a-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/praveen-7995/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-7995/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/praveen-7995/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/praveen-7995/leetcode-solution/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/praveen-7995/leetcode-solution/tree/master/0179-largest-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/praveen-7995/leetcode-solution/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/praveen-7995/leetcode-solution/tree/master/0583-delete-operation-for-two-strings) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/praveen-7995/leetcode-solution/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/praveen-7995/leetcode-solution/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -647,4 +650,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/praveen-7995/leetcode-solution/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
