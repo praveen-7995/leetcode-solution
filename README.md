@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/praveen-7995/leetcode-solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/praveen-7995/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/praveen-7995/leetcode-solution/tree/master/2029-stone-game-ix) |
+| [2549-count-distinct-numbers-on-board](https://github.com/praveen-7995/leetcode-solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveen-7995/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/praveen-7995/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/praveen-7995/leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2498-frog-jump-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/2498-frog-jump-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/praveen-7995/leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/praveen-7995/leetcode-solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveen-7995/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/praveen-7995/leetcode-solution/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/praveen-7995/leetcode-solution/tree/master/2615-sum-of-distances) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/praveen-7995/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/praveen-7995/leetcode-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/praveen-7995/leetcode-solution/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2549-count-distinct-numbers-on-board](https://github.com/praveen-7995/leetcode-solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [2615-sum-of-distances](https://github.com/praveen-7995/leetcode-solution/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveen-7995/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/praveen-7995/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/praveen-7995/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2549-count-distinct-numbers-on-board](https://github.com/praveen-7995/leetcode-solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveen-7995/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveen-7995/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
