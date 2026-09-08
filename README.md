@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/praveen-7995/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/praveen-7995/leetcode-solution/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/praveen-7995/leetcode-solution/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/praveen-7995/leetcode-solution/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-7995/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/praveen-7995/leetcode-solution/tree/master/0704-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveen-7995/leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/praveen-7995/leetcode-solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/2498-frog-jump-ii) |
