@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/praveen-7995/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/praveen-7995/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/praveen-7995/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/praveen-7995/leetcode-solution/tree/master/0053-maximum-subarray) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/praveen-7995/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/praveen-7995/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/praveen-7995/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-7995/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/praveen-7995/leetcode-solution/tree/master/0455-assign-cookies) |
