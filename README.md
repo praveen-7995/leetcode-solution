@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/praveen-7995/leetcode-solution/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/praveen-7995/leetcode-solution/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/praveen-7995/leetcode-solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/praveen-7995/leetcode-solution/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/praveen-7995/leetcode-solution/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/praveen-7995/leetcode-solution/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/praveen-7995/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveen-7995/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
