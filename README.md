@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/praveen-7995/leetcode-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/praveen-7995/leetcode-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/praveen-7995/leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-7995/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveen-7995/leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/praveen-7995/leetcode-solution/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/praveen-7995/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/praveen-7995/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/praveen-7995/leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/praveen-7995/leetcode-solution/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-7995/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/praveen-7995/leetcode-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2549-count-distinct-numbers-on-board](https://github.com/praveen-7995/leetcode-solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [2615-sum-of-distances](https://github.com/praveen-7995/leetcode-solution/tree/master/2615-sum-of-distances) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/praveen-7995/leetcode-solution/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/praveen-7995/leetcode-solution/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-7995/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/praveen-7995/leetcode-solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/praveen-7995/leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/praveen-7995/leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
