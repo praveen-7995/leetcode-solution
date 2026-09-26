@@ -3,8 +3,6 @@ public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
         
         unordered_map<string, string> mp;
-        
-        // Store knowledge in hashmap
         for (auto &p : knowledge) {
             mp[p[0]] = p[1];
         }
