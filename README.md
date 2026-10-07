@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/praveen-7995/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/praveen-7995/leetcode-solution/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/praveen-7995/leetcode-solution/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/praveen-7995/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/praveen-7995/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/praveen-7995/leetcode-solution/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/praveen-7995/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0301-remove-invalid-parentheses](https://github.com/praveen-7995/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/praveen-7995/leetcode-solution/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/praveen-7995/leetcode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/praveen-7995/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/praveen-7995/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
