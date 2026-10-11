@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/praveen-7995/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/praveen-7995/leetcode-solution/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/praveen-7995/leetcode-solution/tree/master/2615-sum-of-distances) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/praveen-7995/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveen-7995/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/praveen-7995/leetcode-solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveen-7995/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/praveen-7995/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveen-7995/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
