@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/praveen-7995/leetcode-solution/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/praveen-7995/leetcode-solution/tree/master/2615-sum-of-distances) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/praveen-7995/leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveen-7995/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveen-7995/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/praveen-7995/leetcode-solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveen-7995/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/praveen-7995/leetcode-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2549-count-distinct-numbers-on-board](https://github.com/praveen-7995/leetcode-solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [2615-sum-of-distances](https://github.com/praveen-7995/leetcode-solution/tree/master/2615-sum-of-distances) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveen-7995/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveen-7995/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/praveen-7995/leetcode-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/praveen-7995/leetcode-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2498-frog-jump-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/2498-frog-jump-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveen-7995/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/praveen-7995/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/praveen-7995/leetcode-solution/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/praveen-7995/leetcode-solution/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/praveen-7995/leetcode-solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveen-7995/leetcode-solution/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/praveen-7995/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/praveen-7995/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/praveen-7995/leetcode-solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
