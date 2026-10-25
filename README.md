@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/praveen-7995/leetcode-solution/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/praveen-7995/leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/praveen-7995/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/praveen-7995/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/praveen-7995/leetcode-solution/tree/master/1345-jump-game-iv) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/praveen-7995/leetcode-solution/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/praveen-7995/leetcode-solution/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/praveen-7995/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/praveen-7995/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praveen-7995/leetcode-solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveen-7995/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/praveen-7995/leetcode-solution/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/praveen-7995/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1254-number-of-closed-islands](https://github.com/praveen-7995/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/praveen-7995/leetcode-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2685-count-the-number-of-complete-components](https://github.com/praveen-7995/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/praveen-7995/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/praveen-7995/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/praveen-7995/leetcode-solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2685-count-the-number-of-complete-components](https://github.com/praveen-7995/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/praveen-7995/leetcode-solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/praveen-7995/leetcode-solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/praveen-7995/leetcode-solution/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/praveen-7995/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1254-number-of-closed-islands](https://github.com/praveen-7995/leetcode-solution/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/praveen-7995/leetcode-solution/tree/master/1345-jump-game-iv) |
 | [2685-count-the-number-of-complete-components](https://github.com/praveen-7995/leetcode-solution/tree/master/2685-count-the-number-of-complete-components) |
