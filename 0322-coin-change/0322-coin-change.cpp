@@ -1,11 +1,11 @@
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
+        
 
         int n = coins.size();
-        int INF = 1e9 + 7;
 
-        vector<vector<int>>dp(n, vector<int>(amount+1, INF));
+        vector<vector<int>>dp(n, vector<int>(amount+1, INT_MAX));
 
         for(int i = 0; i < n; i++){
             dp[i][0] = 0;
@@ -18,18 +18,13 @@ public:
         for(int i = 1; i < n; i++){
             for(int j = 0; j <= amount; j++){
                 int notTake = dp[i-1][j];
-                int take = INF;
-                if(coins[i] <= j){
-                    take = 1 + dp[i][j-coins[i]];
+                int take = INT_MAX;
+                if(coins[i] <= j && dp[i][j-coins[i]] != INT_MAX){
+                    take = 1 + dp[i][j - coins[i]];
                 }
-                dp[i][j] = min(take, notTake);
-
+                dp[i][j] = min(take , notTake);
             }
         }
-        if(dp[n-1][amount] == INF){
-            return -1;
-        }
-        return dp[n-1][amount];
-        
+        return dp[n-1][amount] == INT_MAX ? -1 : dp[n-1][amount] ;
     }
 };
