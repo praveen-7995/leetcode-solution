@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/praveen-7995/leetcode-solution/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0931-minimum-falling-path-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/praveen-7995/leetcode-solution/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/praveen-7995/leetcode-solution/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/1140-stone-game-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/praveen-7995/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/praveen-7995/leetcode-solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/praveen-7995/leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/praveen-7995/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/praveen-7995/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/praveen-7995/leetcode-solution/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/praveen-7995/leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/praveen-7995/leetcode-solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/praveen-7995/leetcode-solution/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveen-7995/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/praveen-7995/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/praveen-7995/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/praveen-7995/leetcode-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/praveen-7995/leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/praveen-7995/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
