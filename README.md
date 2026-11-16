@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/praveen-7995/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/praveen-7995/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/praveen-7995/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/praveen-7995/leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/praveen-7995/leetcode-solution/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveen-7995/leetcode-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveen-7995/leetcode-solution/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/praveen-7995/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/praveen-7995/leetcode-solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/praveen-7995/leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/praveen-7995/leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/praveen-7995/leetcode-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/praveen-7995/leetcode-solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/praveen-7995/leetcode-solution/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
